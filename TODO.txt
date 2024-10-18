@@ -1,0 +1,2 @@
+1. Write a GUI window that would display scraped data 
+2. include a button in the window that would also be able to export data in excel format
